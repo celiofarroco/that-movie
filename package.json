@@ -4,7 +4,7 @@
   "description": "API para o projeto 'That Movie'",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/server.js"
   },
   "author": "Célio da Paz Farroco",
   "license": "ISC",
